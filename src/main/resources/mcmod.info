@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lobbyjoindisable",
+  "name": "Lobby Join Message Disabler",
+  "description": "hypixel do be like that",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/TheKingElessar/",
+  "updateUrl": "",
+  "authorList": ["TheKingElessar"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
